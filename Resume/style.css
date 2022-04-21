@@ -1,0 +1,39 @@
+.zoom{
+  zoom:150%;
+}
+footer {
+ border-top: 1px solid #f7bbfc;
+ text-align: center;
+ padding-top: 1em;
+}
+footer img {
+ width: 40px;
+ height: 40px;
+ margin-left: .5em;
+ margin-right: .5em;
+}
+body {
+
+ background-color: #D3B2D5;
+ margin: 0 10%;
+ font-family: Garamond, serif;
+ text-align: center;
+
+ }
+h1 {
+ text-align: center;
+ font-family: Garamond, serif;
+ font-weight: normal;
+ border-bottom: 1px solid #f7bbfc;
+ margin-top: 25px;
+}
+h2 {
+ color: #33081f;
+ font-size: 1em;
+ text-align: center;
+}
+a:link { color: #939; }
+a:visited { color: #937393; }
+a:focus { color: #c700f2; background-color: #fff; }
+a:hover { color: #c700f2; background-color: #FD87B4; }
+a:active { color: #ff00ff; background-color: #20F0E9; }
